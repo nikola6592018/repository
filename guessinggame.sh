@@ -20,4 +20,3 @@ while makeValidGuess; do
 		exit
 	fi
 done
-
