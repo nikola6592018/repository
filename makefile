@@ -6,3 +6,4 @@ README.md:
 	echo "" >> README.md
 	echo "Number of lines of code contained in guessinggame.sh:  " >> README.md
 	less guessinggame.sh | wc -l >> README.md
+	
