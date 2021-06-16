@@ -5,4 +5,3 @@ Date and time:
 
 Number of lines of code contained in guessinggame.sh:  
 23
-
